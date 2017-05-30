@@ -40,14 +40,14 @@ namespace MyQuotes
             EmailComposeTask emailComposeTask = new EmailComposeTask();
             emailComposeTask.Subject = "Feedback to App";           //message subject
             emailComposeTask.Body = "Write your feedback here...";  //message body
-            emailComposeTask.To = "vinaymatt@outlook.com";          //email id
+            emailComposeTask.To = "";          //email id
             emailComposeTask.Show();
         }
 
         private void ApplicationBarMenuItem_Click(object sender, EventArgs e)
         {
             MarketplaceSearchTask search = new MarketplaceSearchTask();
-            search.SearchTerms = "vinaygarg";
+            search.SearchTerms = "";  //developer name
             search.Show();
         }
     }
