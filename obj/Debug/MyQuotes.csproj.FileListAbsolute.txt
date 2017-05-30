@@ -1,0 +1,41 @@
+D:\Silverlight\Final\MyQuotes\MyQuotes\obj\Debug\ResolveAssemblyReference.cache
+D:\Silverlight\Final\MyQuotes\MyQuotes\obj\Debug\App.g.i.cs
+D:\Silverlight\Final\MyQuotes\MyQuotes\obj\Debug\MainPage.g.i.cs
+D:\Silverlight\Final\MyQuotes\MyQuotes\obj\Debug\MyQuotes.g.resources
+D:\Silverlight\Final\MyQuotes\MyQuotes\Bin\Debug\ApplicationIcon.png
+D:\Silverlight\Final\MyQuotes\MyQuotes\Bin\Debug\Background.png
+D:\Silverlight\Final\MyQuotes\MyQuotes\Bin\Debug\MyQuotes.dll
+D:\Silverlight\Final\MyQuotes\MyQuotes\Bin\Debug\MyQuotes.pdb
+D:\Silverlight\Final\MyQuotes\MyQuotes\Bin\Debug\AppManifest.xaml
+D:\Silverlight\Final\MyQuotes\MyQuotes\Bin\Debug\MyQuotes.xap
+D:\Silverlight\Final\MyQuotes\MyQuotes\obj\Debug\MyQuotes.dll
+D:\Silverlight\Final\MyQuotes\MyQuotes\obj\Debug\MyQuotes.pdb
+D:\Silverlight\Final\MyQuotes\MyQuotes\obj\Debug\XapCacheFile.xml
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\Bin\Debug\ApplicationIcon.png
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\Bin\Debug\Background.png
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\Bin\Debug\MyQuotes.dll
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\Bin\Debug\MyQuotes.pdb
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\Bin\Debug\AppManifest.xaml
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\Bin\Debug\MyQuotes.xap
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\obj\Debug\App.g.i.cs
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\obj\Debug\MainPage.g.i.cs
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\obj\Debug\MyQuotes.g.resources
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\obj\Debug\MyQuotes.dll
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\obj\Debug\MyQuotes.pdb
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\obj\Debug\XapCacheFile.xml
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\obj\Debug\StartPage.g.i.cs
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\Bin\Debug\ApplicationIcon.png
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\Bin\Debug\Background.png
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\Bin\Debug\MyQuotes.dll
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\Bin\Debug\MyQuotes.pdb
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\Bin\Debug\AppManifest.xaml
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\Bin\Debug\MyQuotes.xap
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\obj\Debug\App.g.i.cs
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\obj\Debug\MainPage.g.i.cs
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\obj\Debug\StartPage.g.i.cs
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\obj\Debug\MyQuotes.g.resources
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\obj\Debug\MyQuotes.dll
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\obj\Debug\MyQuotes.pdb
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\obj\Debug\XapCacheFile.xml

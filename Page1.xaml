@@ -1,0 +1,108 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="MyQuotes.Page1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+   
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" BackgroundColor="#FF1D160D">
+            <shell:ApplicationBar.MenuItems>
+
+                <shell:ApplicationBarMenuItem Text="About" Click="ApplicationBarMenuItem_Click"/>
+
+            </shell:ApplicationBar.MenuItems>
+            <shell:ApplicationBarIconButton IconUri="/Assets/AppBar/microphone.png" Text="Speak" Click="ApplicationBarIconButton_Click"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/Images/wood-texture-backgrounds.jpg"/>
+        </Grid.Background>
+
+        <!--TitlePanel contains the name of the application and page title-->
+
+
+        <!--ContentPanel - place additional content here-->
+
+        <Image Height="93" HorizontalAlignment="Left" Margin="351,0,0,36" Name="image1" Stretch="Fill" VerticalAlignment="Bottom" Width="105" Source="/MyQuotes;component/Images/Arrow_Right.png" ManipulationStarted="image1_ManipulationStarted" ManipulationCompleted="image1_ManipulationCompleted"/>
+        <Image Height="93" HorizontalAlignment="Left" Margin="38,0,0,35" Name="image2" Stretch="Fill" VerticalAlignment="Bottom" Width="106" Source="/MyQuotes;component/Images/Arrow_Right.png" ManipulationStarted="image1_ManipulationStarted" ManipulationCompleted="image1_ManipulationCompleted" RenderTransformOrigin="0.472,0.515">
+            <Image.RenderTransform>
+                <CompositeTransform ScaleX="-1"/>
+            </Image.RenderTransform>
+        </Image>
+
+
+        <Grid>
+
+            <TextBlock x:Name="PageTitle" Margin="25,43,22,591" Style="{StaticResource PhoneTextTitle1Style}" FontSize="40" TextWrapping="Wrap" Foreground="White" Text="MOTIVATIONAL QUOTES" />
+
+            <TextBlock HorizontalAlignment="Left" Margin="12,169,0,0" x:Name="txtqoutes" Text="{Binding}" VerticalAlignment="Top" TextWrapping="Wrap" FontSize="28" Width="446" Foreground="White" Height="373"/>
+            <TextBlock x:Name="textBlock1" Width="446" TextWrapping="Wrap" FontSize="25" Foreground="White" Margin="12,157,22,166" >
+            	<Run Text="INSTRUCTIONS"/>
+            	<LineBreak/>
+            	<Run Text="# Click --&gt; Button to view Next Quote in this Category."/>
+            	<LineBreak/>
+            	<Run/>
+            	<LineBreak/>
+            	<Run Text="# Use the Mail Icon to mail the selected quotation."/>
+            	<LineBreak/>
+            	<Run/>
+            	<LineBreak/>
+            	<Run Text="# Use the Phone Icon to SMS the selected quotation."/>
+            	<LineBreak/>
+            	<Run/>
+            	<LineBreak/>
+            	<Run Text="    Click --&gt; Button to continue..."/>
+            </TextBlock>
+            <Border BorderBrush="#FFFBF7F7" BorderThickness="0,0,0,5" HorizontalAlignment="Left" Height="24" VerticalAlignment="Top" Width="480" Margin="0,86,0,0"/>
+        </Grid>
+
+        <Path x:Name="P1" Data="M344,552 L395,552 L396,537 L452,581 L399,626 L397,611 L345,610" HorizontalAlignment="Left" Height="93" Margin="351,0,0,36" Stretch="Fill" UseLayoutRounding="False" VerticalAlignment="Bottom" Width="108.5" Visibility="Collapsed">
+            <Path.Stroke>
+                <ImageBrush Stretch="Fill" ImageSource="Images/Arrow_Right.png"/>
+            </Path.Stroke>
+            <Path.Fill>
+                <ImageBrush Stretch="Fill" ImageSource="Images/Arrow_Right.png"/>
+            </Path.Fill>
+        </Path>
+
+        <Path x:Name="P2" Data="M344,552 L395,552 L396,537 L452,581 L399,626 L397,611 L345,610" HorizontalAlignment="Left" Height="93" Margin="38,0,0,35" Stretch="Fill" UseLayoutRounding="False" VerticalAlignment="Bottom" Width="108.5" Visibility="Collapsed">
+            <Path.Stroke>
+                <ImageBrush Stretch="Fill" ImageSource="Images/Arrow_Right.png"/>
+            </Path.Stroke>
+            <Path.Fill>
+                <ImageBrush Stretch="Fill" ImageSource="Images/Arrow_Right.png"/>
+            </Path.Fill>
+        </Path>
+        <Image x:Name="image2_Copy" Stretch="Fill" Margin="180,547,173,36" Source="Copy-icon.png" ManipulationStarted="image2_ManipulationStarted"/>
+
+    </Grid>
+
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+
+</phone:PhoneApplicationPage>

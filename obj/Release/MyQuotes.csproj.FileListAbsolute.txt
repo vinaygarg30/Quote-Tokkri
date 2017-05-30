@@ -1,0 +1,131 @@
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\Bin\Release\ApplicationIcon.png
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\Bin\Release\Background.png
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\Bin\Release\MyQuotes.dll
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\Bin\Release\MyQuotes.pdb
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\obj\Release\App.g.i.cs
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\obj\Release\MainPage.g.i.cs
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\obj\Release\StartPage.g.i.cs
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\obj\Release\MyQuotes.g.resources
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\obj\Release\MyQuotes.dll
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\obj\Release\MyQuotes.pdb
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\Bin\Release\AppManifest.xaml
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\Bin\Release\MyQuotes.xap
+C:\Users\Romil\Documents\Downloads\Compressed\MyQuotes\MyQuotes\MyQuotes\obj\Release\XapCacheFile.xml
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\ApplicationIcon.png
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\Background.png
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\MyQuotes.dll
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\MyQuotes.pdb
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\AppManifest.xaml
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\MyQuotes.xap
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\MyQuotes\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\MyQuotes\obj\Release\App.g.i.cs
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\MyQuotes\obj\Release\MainPage.g.i.cs
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\MyQuotes\obj\Release\StartPage.g.i.cs
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\MyQuotes\obj\Release\MyQuotes.g.resources
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\MyQuotes\obj\Release\MyQuotes.dll
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\MyQuotes\obj\Release\MyQuotes.pdb
+C:\Users\Navjot\Desktop\summitting projects\MyQuotes\MyQuotes\MyQuotes\obj\Release\XapCacheFile.xml
+C:\college\20thapril\submitted\MyQuotes\MyQuotes\MyQuotes\Bin\Release\ApplicationIcon.png
+C:\college\20thapril\submitted\MyQuotes\MyQuotes\MyQuotes\Bin\Release\Background.png
+C:\college\20thapril\submitted\MyQuotes\MyQuotes\MyQuotes\Bin\Release\MyQuotes.dll
+C:\college\20thapril\submitted\MyQuotes\MyQuotes\MyQuotes\Bin\Release\MyQuotes.pdb
+C:\college\20thapril\submitted\MyQuotes\MyQuotes\MyQuotes\Bin\Release\AppManifest.xaml
+C:\college\20thapril\submitted\MyQuotes\MyQuotes\MyQuotes\Bin\Release\MyQuotes.xap
+C:\college\20thapril\submitted\MyQuotes\MyQuotes\MyQuotes\obj\Release\ResolveAssemblyReference.cache
+C:\college\20thapril\submitted\MyQuotes\MyQuotes\MyQuotes\obj\Release\App.g.i.cs
+C:\college\20thapril\submitted\MyQuotes\MyQuotes\MyQuotes\obj\Release\MainPage.g.i.cs
+C:\college\20thapril\submitted\MyQuotes\MyQuotes\MyQuotes\obj\Release\StartPage.g.i.cs
+C:\college\20thapril\submitted\MyQuotes\MyQuotes\MyQuotes\obj\Release\MyQuotes.g.resources
+C:\college\20thapril\submitted\MyQuotes\MyQuotes\MyQuotes\obj\Release\MyQuotes.dll
+C:\college\20thapril\submitted\MyQuotes\MyQuotes\MyQuotes\obj\Release\MyQuotes.pdb
+C:\college\20thapril\submitted\MyQuotes\MyQuotes\MyQuotes\obj\Release\XapCacheFile.xml
+C:\PHONE\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\ApplicationIcon.png
+C:\PHONE\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\Background.png
+C:\PHONE\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\MyQuotes.dll
+C:\PHONE\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\MyQuotes.pdb
+C:\PHONE\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\AppManifest.xaml
+C:\PHONE\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\MyQuotes.xap
+C:\PHONE\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\obj\Release\ResolveAssemblyReference.cache
+C:\PHONE\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\obj\Release\App.g.i.cs
+C:\PHONE\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\obj\Release\MainPage.g.i.cs
+C:\PHONE\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\obj\Release\StartPage.g.i.cs
+C:\PHONE\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\obj\Release\MyQuotes.g.resources
+C:\PHONE\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\obj\Release\MyQuotes.dll
+C:\PHONE\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\obj\Release\MyQuotes.pdb
+C:\PHONE\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\obj\Release\XapCacheFile.xml
+G:\Study Material\App Development\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\ApplicationIcon.png
+G:\Study Material\App Development\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\Background.png
+G:\Study Material\App Development\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\MyQuotes.dll
+G:\Study Material\App Development\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\MyQuotes.pdb
+G:\Study Material\App Development\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\AppManifest.xaml
+G:\Study Material\App Development\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\Properties\WMAppManifest.xml
+G:\Study Material\App Development\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\Bin\Release\MyQuotes_Release_AnyCPU.xap
+G:\Study Material\App Development\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\obj\Release\MyQuotes.csprojResolveAssemblyReference.cache
+G:\Study Material\App Development\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\obj\Release\App.g.cs
+G:\Study Material\App Development\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\obj\Release\MainPage.g.cs
+G:\Study Material\App Development\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\obj\Release\StartPage.g.cs
+G:\Study Material\App Development\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\obj\Release\MyQuotes.g.resources
+G:\Study Material\App Development\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\obj\Release\MyQuotes.dll
+G:\Study Material\App Development\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\obj\Release\MyQuotes.pdb
+G:\Study Material\App Development\NokiaTutorial\Readyprojects\MyQuotes\MyQuotes\MyQuotes\obj\Release\XapCacheFile.xml
+C:\Users\Vinay\Desktop\MyQuotes\MyQuotes\Bin\Release\ApplicationIcon.png
+C:\Users\Vinay\Desktop\MyQuotes\MyQuotes\Bin\Release\Background.png
+C:\Users\Vinay\Desktop\MyQuotes\MyQuotes\Bin\Release\MyQuotes.dll
+C:\Users\Vinay\Desktop\MyQuotes\MyQuotes\Bin\Release\MyQuotes.pdb
+C:\Users\Vinay\Desktop\MyQuotes\MyQuotes\obj\Release\MyQuotes.csprojResolveAssemblyReference.cache
+C:\Users\Vinay\Desktop\MyQuotes\MyQuotes\obj\Release\App.g.cs
+C:\Users\Vinay\Desktop\MyQuotes\MyQuotes\obj\Release\MainPage.g.cs
+C:\Users\Vinay\Desktop\MyQuotes\MyQuotes\obj\Release\StartPage.g.cs
+C:\Users\Vinay\Desktop\MyQuotes\MyQuotes\obj\Release\MyQuotes.g.resources
+C:\Users\Vinay\Desktop\MyQuotes\MyQuotes\obj\Release\MyQuotes.dll
+C:\Users\Vinay\Desktop\MyQuotes\MyQuotes\obj\Release\MyQuotes.pdb
+C:\Users\Vinay\Desktop\MyQuotes\MyQuotes\Bin\Release\AppManifest.xaml
+C:\Users\Vinay\Desktop\MyQuotes\MyQuotes\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Vinay\Desktop\MyQuotes\MyQuotes\Bin\Release\MyQuotes_Release_AnyCPU.xap
+C:\Users\Vinay\Desktop\MyQuotes\MyQuotes\obj\Release\XapCacheFile.xml
+C:\Users\Vinay\Desktop\MyQuotes\MyQuotes\obj\Release\cat.g.cs
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\MyQuotes.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\MyQuotes.pdb
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\AppManifest.xaml
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\MyQuotes_Release_AnyCPU.xap
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\obj\Release\MyQuotes.csprojResolveAssemblyReference.cache
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\obj\Release\App.g.cs
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\obj\Release\cat.g.cs
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\obj\Release\MainPage.g.cs
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\obj\Release\StartPage.g.cs
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\obj\Release\MyQuotes.g.resources
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\obj\Release\MyQuotes.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\obj\Release\MyQuotes.pdb
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\obj\Release\XapCacheFile.xml
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\obj\Release\Page1.g.cs
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\obj\Release\Page2.g.cs
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\obj\Release\about.g.cs
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\obj\Release\Page3.g.cs
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\RateMyApp.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\ar-SA\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\de-DE\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\en-GB\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\en-US\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\es-ES\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\fi-FI\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\fr-FR\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\he-IL\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\hr-HR\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\hu-HU\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\it-IT\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\lt-LT\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\nb-NO\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\nl-NL\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\pl-PL\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\pt-BR\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\pt-PT\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\ro-RO\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\ru-RU\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\sl-SI\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\sv-SE\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\uk-UA\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\vi-VN\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\zh-CN\RateMyApp.resources.dll
+C:\Users\Vinay\Desktop\Pending Apps\MyQuotes\MyQuotes\Bin\Release\AdDuplex.WindowsPhone.dll

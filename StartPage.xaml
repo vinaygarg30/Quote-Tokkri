@@ -1,0 +1,104 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="MyQuotes.StartPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    
+    xmlns:rma="clr-namespace:RateMyApp.Controls;assembly=RateMyApp"
+    xmlns:trans="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="800" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="False">
+
+    <trans:TransitionService.NavigationInTransition>
+        <trans:NavigationInTransition>
+            <trans:NavigationInTransition.Backward>
+                <trans:TurnstileTransition Mode="BackwardIn"/>
+            </trans:NavigationInTransition.Backward>
+            <trans:NavigationInTransition.Forward>
+                <trans:TurnstileTransition Mode="ForwardIn"/>
+            </trans:NavigationInTransition.Forward>
+        </trans:NavigationInTransition>
+    </trans:TransitionService.NavigationInTransition>
+    <trans:TransitionService.NavigationOutTransition>
+        <trans:NavigationOutTransition>
+            <trans:NavigationOutTransition.Backward>
+                <trans:TurnstileTransition Mode="BackwardOut"/>
+            </trans:NavigationOutTransition.Backward>
+            <trans:NavigationOutTransition.Forward>
+                <trans:TurnstileTransition Mode="ForwardOut"/>
+            </trans:NavigationOutTransition.Forward>
+        </trans:NavigationOutTransition>
+    </trans:TransitionService.NavigationOutTransition>
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" BackgroundColor="#FF1D160D">
+            <shell:ApplicationBar.MenuItems>
+
+                <shell:ApplicationBarMenuItem Text="About" Click="ApplicationBarMenuItem_Click" />
+
+            </shell:ApplicationBar.MenuItems>
+            <shell:ApplicationBarIconButton IconUri="/Assets/AppBar/share.png" Text="Share" Click="share"/>
+            <shell:ApplicationBarIconButton IconUri="/Assets2/AppBar/favs.png" Text="Rate Me" Click="rateme"/>
+            <shell:ApplicationBarIconButton IconUri="/Assets1/AppBar/feature.email.png" Text="feedback" Click="feedback"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+
+
+        <!--TitlePanel contains the name of the application and page title-->
+
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel"  Margin="2,0,0,0">
+
+
+            <Grid.Background>
+                <ImageBrush ImageSource="/Images/wood-texture-backgrounds.jpg"/>
+            </Grid.Background>
+            <Image ManipulationStarted="Image_ManipulationStarted" Source="691X3362.png" HorizontalAlignment="Left" Height="272" VerticalAlignment="Top" Width="402" Margin="66,280,0,0"/>
+            <Image ManipulationStarted="Image_ManipulationStarted" Source="/691x3362.png" HorizontalAlignment="Left" Height="272" VerticalAlignment="Top" Width="372" Margin="136,280,-30,0"/>
+        </Grid>
+
+
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="36,111,0,0" Height="148" Width="416" FontSize="50" FontFamily="Segoe UI" Text="QUOTE TOKKRI" TextAlignment="Center">
+
+        </TextBlock>
+        <TextBlock Text="TAP IMAGE TO CONTINUE" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="64,603,0,0" Width="416" Height="74" FontSize="30"/>
+        <Border BorderBrush="#FFFFFDFD" BorderThickness="10" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="416" Margin="36,96,0,0"/>
+        <rma:FeedbackOverlay Grid.RowSpan="2"
+           EnableAnimation="True"
+           RatingTitle="Enjoying My App?"
+           RatingMessage1="We'd love you to rate our app 5 stars !
+                           Showing us some love on the store helps us to continue to work on the app and make things even better!"
+           RatingMessage2="You look to be getting a lot of use out of our application!
+                          Why not give us a 5 star rating to show your appreciation?"
+           RatingYes="Yes"
+           RatingNo="No"
+           FeedbackTitle="Can we make it better?"
+           FeedbackMessage1="Feedback Here"
+           FeedbackYes="Yes"
+           FeedbackNo="No"
+           FeedbackTo="vinaymatt@outlook.com"
+           FeedbackSubject="My App Customer Feedback "
+           FeedbackBody=""
+           CompanyName="Vinay Garg"
+           ApplicationName="Quote Tokkri"
+           FirstCount="5"
+           SecondCount="10"
+           CountDays="False"
+           />
+
+    </Grid>
+
+
+
+</phone:PhoneApplicationPage>
